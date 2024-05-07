@@ -6,7 +6,7 @@ This program is desgined to parse over a string and use the Context Free Grammar
 
 ## Introduction
 
-This program is desgined in python and It implements a bottom-up parsing technique using a stack to keep track of the parsing process and determines wheter the input is valid.
+This program is desgined in python and It implements a bottom-up parsing technique using a stack to keep track of the parsing process and determines wheter the input is valid. I didn't use any libraries, For the context free grammar and stack I used a list and for the parsing table I used a dictionary to keep track of the shifting and reducing.
 
 ## Setup/Run 
 
